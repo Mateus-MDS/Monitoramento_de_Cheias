@@ -53,4 +53,4 @@ Mapeamento analógico para porcentagem
 Autor: Mateus Moreira da Silva
 
 Código e Vídeo
-Github: https://github.com/Mateus-MDS/Monitoramento_de_Cheias
+Github: https://github.com/Mateus-MDS/Monitoramento_de_Cheias.git
